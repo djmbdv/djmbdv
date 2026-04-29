@@ -4,7 +4,7 @@
 
 # David José Márquez Batiz
 
-Full Stack Developer
+Software Engineer
 
 # Contact Information
 
